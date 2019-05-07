@@ -1,4 +1,4 @@
-package pt.impactzero.examples.springtests;
+package com.hashdava.examples.springtests;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Min;

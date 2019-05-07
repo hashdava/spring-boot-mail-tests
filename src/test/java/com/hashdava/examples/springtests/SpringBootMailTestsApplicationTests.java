@@ -1,4 +1,4 @@
-package pt.impactzero.examples.springtests;
+package com.hashdava.examples.springtests;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
