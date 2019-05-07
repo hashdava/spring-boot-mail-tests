@@ -1,4 +1,4 @@
-package pt.impactzero.examples.springtests;
+package com.hashdava.examples.springtests;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

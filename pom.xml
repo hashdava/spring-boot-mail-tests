@@ -8,7 +8,7 @@
 		<version>2.0.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pt.impactzero.examples</groupId>
+	<groupId>com.hashdava.examples</groupId>
 	<artifactId>spring-boot-mail-tests</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mail-tests</name>

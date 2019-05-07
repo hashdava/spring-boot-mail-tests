@@ -1,4 +1,4 @@
-package pt.impactzero.examples.springtests;
+package com.hashdava.examples.springtests;
 
 import javax.validation.ValidationException;
 
